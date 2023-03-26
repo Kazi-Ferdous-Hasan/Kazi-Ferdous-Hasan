@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **Python and Data Science**
 
-- 💬 Ask me about **Java, C++**
+- 👀 I’m interested in **Data science (EDA, Machine Learning, AI)**
+
+- 💬 Ask me about **Java, C++, Python, OOP, and DSA**
 
 - 📫 How to reach me: **ferdous.hasan.ewu@gmail.com**
