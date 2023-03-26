@@ -9,9 +9,3 @@
 - 💬 Ask me about **Java, C++**
 
 - 📫 How to reach me: **ferdous.hasan.ewu@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/kazi-ferdous-hasan-7b2417225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/kazi-ferdous-hasan-7b2417225" height="30" width="40" /></a>
-<a href="https://instagram.com/kf_hasan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kf_hasan_" height="30" width="40" /></a>
-</p>
