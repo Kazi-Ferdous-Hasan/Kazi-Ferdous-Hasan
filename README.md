@@ -4,10 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kazi-ferdous-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="kazi-ferdous-hasan" /> </p>
 
-- 🌱 I’m currently learning **Python and Data Science**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👀 I’m interested in **Data science (EDA, Machine Learning, AI)**
 
 - 💬 Ask me about **Java, C++, Python, OOP, and DSA**
 
-- 📫 How to reach me: **ferdous.hasan.ewu@gmail.com**
+- 📫 How to reach me: **kfh.ewu@gmail.com**
